@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#03A9F4"
+tools:context=".StarActivity">
+
+
+<ImageView
+    android:layout_width="258dp"
+    android:layout_height="264dp"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentBottom="true"
+    android:layout_marginStart="61dp"
+    android:layout_marginEnd="61dp"
+    android:layout_marginBottom="381dp"
+    android:background="@drawable/logoawal" />
+
+<Button
+    android:id="@+id/btn1"
+    android:background="@drawable/stylebutton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentBottom="true"
+    android:layout_marginStart="62dp"
+    android:layout_marginEnd="218dp"
+    android:layout_marginBottom="161dp"
+    android:textColor="#ffffff"
+    android:text="@string/daftar_akun" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="214dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="161dp"
+        android:background="@drawable/stylebutton"
+        android:text="@string/masuk_akun"
+        android:textColor="#ffffff" />
+
+
+</RelativeLayout>

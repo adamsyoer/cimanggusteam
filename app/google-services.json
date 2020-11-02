@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792540274002",
+    "firebase_url": "https://cimanggusteam.firebaseio.com",
+    "project_id": "cimanggusteam",
+    "storage_bucket": "cimanggusteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792540274002:android:c02857391b7191ff",
+        "android_client_info": {
+          "package_name": "com.example.cimanggusteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792540274002-vqu2hmp7moggvsa2g3r5llu8hbh7b1tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cimanggusteam",
+            "certificate_hash": "7359b0a9e2effd0719e3c21a2a4ccc5c498b564f"
+          }
+        },
+        {
+          "client_id": "792540274002-43dbl43v64d0troiqeji7p6d5ui23a20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2ruQ2OKEbnUIT2R2BR5cMSQrceQXreI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792540274002-43dbl43v64d0troiqeji7p6d5ui23a20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
